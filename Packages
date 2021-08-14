@@ -19,7 +19,7 @@ Section: Tweaks
 Maintainer: Tamino <tamino.palm@gmail.com>
 Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/A Test Tweak.deb
+Filename: ./debs/SparkasseBypass-xsf1re.deb
 Size: 3826 
 MD5sum: c92d4235cdbdd334224f66ed611fc0e0
 Description: This is a test package.
