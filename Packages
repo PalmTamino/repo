@@ -12,3 +12,17 @@ Description: This is a test package.
 Name: Test package
 Author: Tamino <tamino.palm@gmail.com>
 Depiction: A Test tweak
+
+Package: kr.xsf1re.sparkassebypass
+Version: 0.1
+Section: Tweaks
+Maintainer: Tamino <tamino.palm@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/A Test Tweak.deb
+Size: 3826 
+MD5sum: c92d4235cdbdd334224f66ed611fc0e0
+Description: This is a test package.
+Name: SparkasseBypass
+Author: xsf1re <unknownmail@mail.de>
+Depiction: Bypass jailbreak detection of Sparkasse Ihre mobile Filiale v5.9.1 Run only bypass tweak on that app using Choicy or Libhooker Configurator.
